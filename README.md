@@ -2,8 +2,8 @@
 
 팀원이 로그인 없이 읽을 수 있는 이번 게임잼용 얇은 레퍼런스 위키입니다. 개인 레퍼런스의 원문은 원래 저장소에 두고, 여기에는 팀 관점의 요약·팀 합의·이번 잼 정보만 추가합니다.
 
-> **HTML 프리뷰:** [게시 후 확인할 주소](https://htmlpreview.github.io/?https://github.com/openbaeseongjin/gamejam-reference/blob/main/wiki/index.html) · [저장소](https://github.com/openbaeseongjin/gamejam-reference)  
-> 저장소 생성과 공개 게시가 아직 확인되지 않아 프리뷰 주소는 준비된 대상 URL입니다. 공개된 `main` 브랜치에 파일을 올린 뒤 이 링크를 실제 브라우저에서 확인하고, 확인된 주소로 갱신합니다.
+> **HTML 프리뷰:** [게시된 프리뷰 열기](https://htmlpreview.github.io/?https://github.com/openbaeseongjin/gamejam-reference/blob/main/wiki/index.html) · [공개 저장소](https://github.com/openbaeseongjin/gamejam-reference)
+> 프리뷰는 공개 저장소 `main` 브랜치의 `wiki/index.html`을 렌더링합니다. [원본 HTML](wiki/index.html)에서도 내용을 확인할 수 있습니다.
 
 이 위키는 공개 저장소의 HTML을 직접 표시하는 HTML Preview를 최소 배포 경로로 사용합니다. 별도 빌드나 GitHub Actions는 추가하지 않습니다. 실제 공개 프리뷰 동작은 저장소에 게시한 뒤 확인합니다.
 
